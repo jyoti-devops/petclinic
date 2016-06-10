@@ -14,7 +14,7 @@
 <div class="container">
     <jsp:include page="../fragments/bodyHeader.jsp"/>
 
-    <h2>Owner Information</h2>
+    <h2>Owner Information check</h2>
 
     <table class="table table-striped" style="width:600px;">
         <tr>
